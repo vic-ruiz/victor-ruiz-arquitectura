@@ -1,0 +1,1 @@
+PlaceHolder hasta implementar las mejoras en la arquitectura de la API
